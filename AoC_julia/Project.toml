@@ -1,0 +1,4 @@
+name = "AoC_julia"
+uuid = "ab32deed-7dcf-46a7-8a58-fc175ff44800"
+authors = ["jaha "]
+version = "0.1.0"
